@@ -61,8 +61,8 @@ This project is deployed using GitHub Pages.
 
 ---
 
-#Screenshots
-![amazon clone](amz_clone.png)
+## Screenshots
+![amazon clone] (amz_clone.png)
 
 ---
 
