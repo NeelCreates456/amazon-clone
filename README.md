@@ -61,9 +61,14 @@ This project is deployed using GitHub Pages.
 
 ---
 
+#Screenshots
+![Homepage](amz_clone.png)
+
+---
+
 Future Improvements
 
-- Make fully responsive (mobile-friendly 📱)
+- Make fully responsive (mobile-friendly)
 - Add more JavaScript functionality
 - Improve animations & transitions more efficiently
 - Add backend features (login/cart)
